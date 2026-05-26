@@ -1,6 +1,6 @@
 **💡Data Analyst in transition | SQL • Python • Power BI | Turning data into insight**
 
-Hi, there 👋 I’m Ivan. I’m transitioning into a Junior Data Analyst based in New Jersey, USA.
+Hi, there 👋 I’m Ivan. I’m transitioning into a Data Analyst based in New Jersey, USA.
 
 **🔭 I’m currently working on**:
 
