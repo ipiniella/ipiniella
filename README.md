@@ -5,27 +5,14 @@ Hi, there 👋 I’m Ivan. I’m transitioning into a Data Analyst based in New 
 **🔭 I’m currently working on**:
 
 -  SQL and Python projects analyzing real-world datasets (e.g., US traffic accidents)
-- Building interactive dashboards using Power BI
-- Creating a strong portfolio to transition into a Data Analyst role
-
-**🌱 I’m currently learning**:
-
-- Data Science through the IBM Data Science Professional Certificate
-- Advanced SQL (window functions, data cleaning, optimization)
-- Python for data analysis (pandas, matplotlib, seaborn)
-- Data storytelling and visualization best practices
+-  Building interactive dashboards using Power BI, Tableau.
+-  Applied prompt engineering techniques to streamline data analysis and reporting tasks
 
 **👯 I’m looking to collaborate on**:
 
-- Data analysis projects using real datasets (healthcare, retail, logistics)
+- Data analysis projects using real datasets (healthcare)
 - Open-source data projects or beginner-friendly contributions
 - Dashboards and insights for small businesses
-
-**🤔 I’m looking for help with**:
-
-- Improving my GitHub portfolio for recruiters
-- Best practices for data storytelling and case studies
-- Preparing for Data Analyst interviews
 
 **💬 Ask me about**:
 
