@@ -4,7 +4,7 @@ Hi, there 👋 I’m Ivan. I’m transitioning into a Data Analyst based in New 
 
 **🔭 I’m currently working on**:
 
--  SQL and Python projects analyzing real-world datasets (e.g., US traffic accidents)
+-  SQL and Python projects analyzing real-world datasets (e.g., EMS Incident Analysis)
 -  Building interactive dashboards using Power BI, Tableau.
 -  Applied prompt engineering techniques to streamline data analysis and reporting tasks
 
